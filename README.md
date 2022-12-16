@@ -1,4 +1,4 @@
-Website Url: https://cryptowarz.netlify.app/
+Website Link: https://cryptowarz.netlify.app/
 
 
 # Getting Started with Create React App
